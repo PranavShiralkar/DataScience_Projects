@@ -32,7 +32,7 @@ The Titanic dataset contains information about passengers on the Titanic. The go
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/titanic-prediction.git
+git clone https://github.com/PranavShiralkar/titanic-prediction.git
 cd titanic-prediction
 ```
 
