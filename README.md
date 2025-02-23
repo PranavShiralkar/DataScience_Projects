@@ -1,1 +1,1 @@
-# DataScience_Projects
+# Predictive_Model of Titanic Dataset
